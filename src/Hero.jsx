@@ -16,7 +16,7 @@ function Hero() {
       </div>
 
       <div className="hero-right">
-        <img src="/girls.png" alt="Healthcare Illustration" />
+        <img src="ptg.jpg" alt="Healthcare Illustration" />
         <div className="quote-box">
           <p>
             “Precisely what menstruation is, is not yet very well known.”
