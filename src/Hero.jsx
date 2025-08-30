@@ -5,7 +5,7 @@ function Hero() {
   return (
     <section className="hero">
       <div className="hero-left">
-        <h1>We Care, <span>She Wins</span></h1>
+        <h1>We Care,They Care <span>She Wins</span></h1>
         <p>
           We here provide healthcare solutions to women. We create blogs on
           reproductive health, mental health and hygiene. Our app provides a
